@@ -107,7 +107,7 @@
     <iframe
       src="https://web.powerva.microsoft.com/environments/Default-98201fef-d9f6-4e68-84f5-c2705074e342/bots/new_bot_6a9ea3a5d55d4df78cf71af55063a25a/webchat"
       frameborder="0"
-      style="width: 20%; height: 400px"
+      style="width: 60%; height: 500x"
     ></iframe>
   
                      
